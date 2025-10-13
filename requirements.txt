@@ -4,8 +4,8 @@ numpy
 matplotlib
 seaborn
 joblib
-scikit-learn
-imbalanced-learn
-xgboost
+scikit-learn==1.4.2
+
+
 
 
